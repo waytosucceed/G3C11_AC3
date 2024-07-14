@@ -1,0 +1,176 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which of the following words has an open syllable?",
+        "options": ["cat", "go", "pen", "sit"],
+        "correct": 1,
+        "explanation": "An open syllable ends with a vowel sound. The word \"go\" has an open syllable because it ends with the vowel sound \"o\"."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Identify the closed syllable in the word \"basket\".",
+        "options": ["bas", "ke", "basket", "None of the above"],
+        "correct": 0,
+        "explanation": "A closed syllable ends in a consonant, which makes the vowel sound short. In \"basket,\" \"bas\" is the closed syllable because it ends with the consonant \"s\"."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "The word \"denim\" has two open syllables.",
+        "options": ["True", "False"],
+        "correct": 1,
+        "explanation": "The word \"denim\" does not have two open syllables. It has one closed syllable and one open syllable. \"Den\" is a closed syllable (ends in consonant 'n'). \"im\" is a closed syllable (ends in consonant 'm')."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which word follows the \"consonant with i-e\" pattern?",
+        "options": ["friend", "hide", "rain", "none of the above"],
+        "correct": 1,
+        "explanation": "In the \"consonant with i-e\" pattern, the \"i-e\" combination represents the long \"i\" sound after a consonant. The word \"hide\" follows this pattern, with the \"i-e\" making the long \"i\" sound after the consonant \"h\"."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "The word \"smile\" follows the \"consonant with i-e\" pattern.",
+        "options": ["True", "False"],
+        "correct": 0,
+        "explanation": "The word \"smile\" follows the \"consonant with i-e\" pattern, with the \"i-e\" combination representing the long \"i\" sound after the consonant blend \"sm\"."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Identify the open syllable in the word \"robot\".",
+        "options": ["ro", "bot", "ro-bot", "None of the above"],
+        "correct": 0,
+        "explanation": "An open syllable ends in a vowel sound, which is not closed by a consonant. In the word \"robot\": \"Ro\" is an open syllable because it ends in the vowel 'o'."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Which word does not follow the \"consonant with i-e\" pattern?",
+        "options": ["kite", "bride", "river", "tile"],
+        "correct": 2,
+        "explanation": "The word \"river\" does not follow the \"consonant with i-e\" pattern because it does not have the \"i-e\" combination representing the long \"i\" sound after a consonant."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "All syllables in the word \"fantastic\" are open syllables.",
+        "options": ["True", "False"],
+        "correct": 1,
+        "explanation": "The word \"fantastic\" has three syllables: \"fan\", \"tas\", and \"tic\". The first syllable \"fan\" is a closed syllable, but the second syllable \"tas\" is a closed syllable because it ends with the consonant sound \"s\"."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Choose the word with a closed syllable.",
+        "options": ["me", "go", "bun", "no"],
+        "correct": 2,
+        "explanation": "The word \"bun\" has a closed syllable because it ends with the consonant sound \"n\"."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Identify the word that follows the \"consonant with i-e\" pattern.",
+        "options": ["pie", "lite", "bride", "all of the above"],
+        "correct": 3,
+        "explanation": "All the words follow the \"consonant with i-e\" pattern, where the vowel ‘i’ is making a long sound."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "The word \"remote\" has an open syllable.",
+        "options": ["True", "False"],
+        "correct": 0,
+        "explanation": "The word \"remote\" has two syllables: \"re\" and \"mote\". These are open syllables because they end with the vowel sound \"e\"."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Choose the word with a closed syllable.",
+        "options": ["hi", "so", "jump", "a-go"],
+        "correct": 2,
+        "explanation": "The word \"jump\" has a closed syllable \"jump\" because it ends with the consonant sound \"p\"."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Which word follows the \"consonant with i-e\" pattern?",
+        "options": ["mine", "light", "shy", "rain"],
+        "correct": 0,
+        "explanation": "The word \"mine\" follows the \"consonant with i-e\" pattern, with the \"i-e\" combination representing the long \"i\" sound after the consonant \"m\"."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "The word \"o-pen\" has an open syllable.",
+        "options": ["True", "False"],
+        "correct": 0,
+        "explanation": "The word \"open\" has one syllable, which is an open syllable because it ends with the vowel sound \"o\"."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which word does not follow the \"consonant with i-e\" pattern?",
+        "options": ["kite", "bride", "tile", "have"],
+        "correct": 3,
+        "explanation": "The word \"have\" does not follow the \"consonant with i-e\" pattern because the \"i-e\" combination does not represent the long \"i\" sound."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "All syllables in the word \"elephant\" are closed syllables.",
+        "options": ["True", "False"],
+        "correct": 1,
+        "explanation": "The word \"elephant\" has three syllables: \"e-le-phant\". The first syllable \"e\" is an open syllable because it ends with the vowel sound \"e\"."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Choose the word with an open syllable.",
+        "options": ["cat", "pen", "go", "sit"],
+        "correct": 2,
+        "explanation": "The word \"go\" has an open syllable because it ends with the vowel sound \"o\"."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Identify the word that follows the \"consonant with i-e\" pattern.",
+        "options": ["maze", "slide", "rain", "light"],
+        "correct": 1,
+        "explanation": "The word \"slide\" follows the \"consonant with i-e\" pattern, with the \"i-e\" combination representing the long \"i\" sound after the consonant blend \"sl\"."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "The word \"music\" has an open syllable.",
+        "options": ["True", "False"],
+        "correct": 0,
+        "explanation": "The word \"music\" has two syllables: \"mu\" and \"sic\". The first syllable \"mu\" is an open syllable because it ends with the vowel sound \"u\"."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Choose the word with a closed syllable.",
+        "options": ["hi", "go", "nun", "me"],
+        "correct": 2,
+        "explanation": "The word \"nun\" has a closed syllable because it ends with the consonant sound \"n\"."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "The word \"time\" follows the \"consonant with i-e\" pattern.",
+        "options": ["True", "False"],
+        "correct": 0,
+        "explanation": "The word \"time\" follows the \"consonant with i-e\" pattern, with the \"i-e\" combination representing the long \"i\" sound after the consonant \"T\"."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "The word \"admit\" has two closed syllables.",
+        "options": ["True", "False"],
+        "correct": 0,
+        "explanation": "The word \"admit\" has two closed syllables: \"ad\" and \"mit\". Both of these syllables end with consonants."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Identify the closed syllable in the word \"computer\".",
+        "options": ["com", "pu", "ter", "both a and c"],
+        "correct": 3,
+        "explanation": "\"Com\" is a closed syllable because it ends with a consonant 'm'. \"Ter\" is a closed syllable because it ends with a consonant 'r'."
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Which of the following has the first open syllable?",
+        "options": ["at-om", "back-ing", "la-bel", "drag-on"],
+        "correct": 2,
+        "explanation": "The first syllable is \"la\", which ends with the vowel sound \"a\". Therefore, \"la\" is an open syllable."
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "The word “laptop” has a “closed” first syllable.",
+        "options": ["True", "False"],
+        "correct": 0,
+        "explanation": "The word \"laptop\" is divided into two syllables: \"lap\" and \"top\". The first syllable \"lap\" is a closed syllable because it ends with the consonant sound \"p\"."
+    }]
